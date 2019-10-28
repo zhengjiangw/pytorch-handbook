@@ -11,11 +11,13 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-2019.5.2 PyTorch已经发布1.1的稳定版。
-API的改动不是很大，目前正在测试1.1版本代码兼容性
+2019.10.10 PyTorch已经发布1.3的稳定版。
+
+已经全部测试完毕 代码可完全兼容1.3
 
 
-[主要改动中文说明](changelog-v1.1.md)
+
+
 
 ## QQ 2群 
 
@@ -69,7 +71,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 
 #### 第三节 神经网络简介
 
-[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)
+[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)  注：本章在本地使用微软的Edge打开会崩溃，请使Chrome Firefox打开查看
 
 #### 第四节 卷积神经网络
 
@@ -102,7 +104,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb) 
 
 [可视化理解卷积神经网络](chapter4/4.2.3-cnn-visualizing.ipynb)
 
@@ -118,6 +120,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 [Kaggle介绍](chapter5/5.1-kaggle.md)
 #### 第二节 结构化数据
 #### 第三节 计算机视觉
+[Fashion MNIST 图像分类](chapter5/5.3-Fashion-MNIST.ipynb)
 #### 第四节 自然语言处理
 #### 第五节 协同过滤
 
